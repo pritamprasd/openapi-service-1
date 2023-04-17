@@ -2,8 +2,8 @@ name: "Hit a webhook"
  
 on:
   push:
-    tags:
-      - '**'
+    branches:
+      - main
  
 jobs:
   run-updater:
