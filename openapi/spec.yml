@@ -15,7 +15,7 @@ externalDocs:
 servers:
   - url: https://petstore3.swagger.io/api/v3      
 tags:   
-  - name: pet
+  - name: pet   
     description: Everything about your Pets
     externalDocs:
       description: Find out more
